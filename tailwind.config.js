@@ -19,6 +19,7 @@ export default {
           900: '#2b4570',
           950: '#202f4b',
         },
+        customgray: '#676B5F',
       },
       fontFamily: {
         sans: 'Inter, sans-serif',
