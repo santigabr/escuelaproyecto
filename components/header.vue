@@ -1,3 +1,20 @@
+<script setup lang="ts">
+const links = [
+  {
+    label: 'Descubrir',
+    href: '/descubrir',
+  },
+  {
+    label: 'Pricing',
+    href: '/pricing',
+  },
+  {
+    label: 'Aprender',
+    href: '/asesoramiento',
+  },
+]
+</script>
+
 <template>
   <div class="px-3 xl:px-0 fixed w-full top-0 z-1 print:hidden">
     <header class="backdrop-blur-sm z-1 container lg:mx-auto max-w-6xl flex justify-between py-3 bg-gray-100 mt-8 rounded-full pl-8 pr-3 items-center">
