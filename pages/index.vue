@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="grid place-content-center">
-        <NuxtImg class="lg:block hidden" src="/linkbio.webp" />
+        <NuxtImg class="lg:block hidden w-[500px]" src="/linkbio.webp" />
       </div>
     </div>
   </main>
